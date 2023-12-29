@@ -14,12 +14,23 @@ https://github.com/Developer-Y/math-science-video-lectures
 **https://github.com/pygae/galgebra** - Symbolic Geometric Algebra/Calculus package for SymPy           
 **https://github.com/WassimTenachi/PhySO** - Physical Symbolic Optimization                    
 **https://github.com/gboeing/pynamical** -  modeling and visualizing discrete nonlinear dynamical systems, chaos, and fractals                             
+**https://github.com/harvey2phase/computational-physics**                 
 
+https://github.com/rohankishore/PhysiPy - calculate all types of Physics Formulae
+
+https://github.com/dstansby/pfsspy - Potential Field Source Surface model package for Python                   
+https://github.com/maroba/multipoles - multipole expansions of electrostatic or gravitational potentials
+
+**https://github.com/magpylib/magpylib** - Python package for computation of magnetic fields of magnets, currents and moments                   
+https://github.com/MatthewFilipovich/pycharge - 
+
+https://github.com/ubermag/ubermag - micromagnetic simulations
+https://github.com/GilesStrong/lumin - deep learning and data science ecosystem for high-energy physics              
 https://github.com/NVIDIA/modulus - deep-learning framework using state-of-the-art Physics-ML methods              
 
 https://github.com/pygae/clifford - Geometric Algebra for Python                
 
-
+https://github.com/adrn/gala - Galactic and gravitational dynamics
 
 https://github.com/meshpro/optimesh - mesh smoothing/optimization methods                              
 https://github.com/quantum-visualizations/qmsolve -  solving and visualizing the Schrödinger equation                               
