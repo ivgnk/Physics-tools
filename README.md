@@ -1,6 +1,6 @@
 # Physics-tools (mainly in Python)
 
-## GitHub           
+## 🏢 GitHub           
 https://github.com/topics/physics            
 https://github.com/topics/physics?l=python            
 https://github.com/topics/physics-simulation                  
@@ -92,9 +92,8 @@ https://github.com/openmc-dev/openmc
 https://github.com/quantsbin/Quantsbin                
 
 - - -
-
-
 https://github.com/ahundt/awesome-robotics                 
 https://github.com/zalo/MathUtilities (C#)                                 
 https://github.com/root-project/root (C++) Data analysis                                      
 
+## 🏠 PyPi
