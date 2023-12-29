@@ -3,6 +3,7 @@
 ## GitHub           
 https://github.com/topics/physics            
 https://github.com/topics/physics?l=python            
+https://github.com/topics/physics-simulation                  
 
 ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) **https://github.com/nschloe/awesome-scientific-computing**               
 **https://github.com/the-akira/Computer-Science-Resources**                    
@@ -16,6 +17,8 @@ https://github.com/Developer-Y/math-science-video-lectures
 **https://github.com/gboeing/pynamical** -  modeling and visualizing discrete nonlinear dynamical systems, chaos, and fractals                             
 **https://github.com/harvey2phase/computational-physics**                 
 **https://github.com/ankonzoid/XY_universe** - 2D particle survival environment               
+**https://github.com/sachabinder/wave_equation_simulations** - olving the wave equation (équations de D'Alembert) 1D and 2D by taking into account velocity variation                      
+https://github.com/stefanmeili/FastFD              
 
 https://github.com/rohankishore/PhysiPy - calculate all types of Physics Formulae                        
 https://github.com/HussainAther/physics - mechanics, statistical mechanics, fluid dynamics, thermodynamics, quantum mechanics, electromagnetism                
@@ -26,9 +29,9 @@ https://github.com/maroba/multipoles - multipole expansions of electrostatic or 
 **https://github.com/magpylib/magpylib** - Python package for computation of magnetic fields of magnets, currents and moments                   
 https://github.com/MatthewFilipovich/pycharge - 
 
-https://github.com/ubermag/ubermag - micromagnetic simulations
-https://github.com/GilesStrong/lumin - deep learning and data science ecosystem for high-energy physics              
-https://github.com/NVIDIA/modulus - deep-learning framework using state-of-the-art Physics-ML methods              
+https://github.com/ubermag/ubermag - micromagnetic simulations                    
+https://github.com/GilesStrong/lumin - deep learning and data science ecosystem for high-energy physics                                
+https://github.com/NVIDIA/modulus - deep-learning framework using state-of-the-art Physics-ML methods                     
 
 https://github.com/pygae/clifford - Geometric Algebra for Python                
 
@@ -42,7 +45,20 @@ https://github.com/PlasmaPy/PlasmaPy - plasma research and education
 
 ### Nuclear                   
 https://github.com/topics/nuclear                   
+https://github.com/topics/nuclear-engineering?l=python                  
+https://github.com/topics/nuclear-physics?l=python                      
+
+**https://github.com/radioactivedecay/radioactivedecay**             
+**https://github.com/op3/nudel** - Nuclear Data Extraction Library              
+https://github.com/op3/hdtv-unattached - Nuclear Spectrum Analysis Tool            
+
+**https://github.com/manjunath5496/Nuclear-Physics-Books**             
+https://github.com/manjunath5496/Nuclear-Chemistry-Books                       
+https://github.com/zhihuanli/Experimental-Data-Analysis-Course             
 **https://github.com/php1ic/pynch** - python dash app to interrogate nuclear mass data               
+https://github.com/paolofinelli/Theoretical-and-Numerical-Nuclear-Physics-Course            
+
+
 
 ### Wavelet                  
 https://github.com/topics/wavelet-analysis?l=python                      
@@ -70,7 +86,8 @@ https://github.com/96lives/gca
 **https://github.com/topics/monte-carlo-simulation**                   
 https://github.com/fmilthaler/FinQuant             
 https://github.com/cgre-aachen/gempy - 3-D structural geological modeling software                       
-
+https://github.com/openmc-dev/openmc           
+https://github.com/quantsbin/Quantsbin                
 
 - - -
 
