@@ -52,6 +52,7 @@ https://github.com/topics/nuclear-physics?l=python
 **https://github.com/op3/nudel** - Nuclear Data Extraction Library              
 https://github.com/op3/hdtv-unattached - Nuclear Spectrum Analysis Tool            
 
+**https://github.com/clusterking/clusterking** - Cluster sets of histograms/curves, in particular kinematic distributions in high energy physics                   
 **https://github.com/manjunath5496/Nuclear-Physics-Books**             
 https://github.com/manjunath5496/Nuclear-Chemistry-Books                       
 https://github.com/zhihuanli/Experimental-Data-Analysis-Course             
@@ -97,3 +98,19 @@ https://github.com/zalo/MathUtilities (C#)
 https://github.com/root-project/root (C++) Data analysis                                      
 
 ## 🏠 PyPi
+### Nuclear                   
+https://pypi.org/search/?q=nuclear+physics              
+https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Scientific%2FEngineering                      
+https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Scientific%2FEngineering&c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Physics                    
+
+https://pypi.org/project/oklo/ - modeling nuclides and nuclear reactions (2015)          
+https://pypi.org/project/physics-gabri432/ - several physics formulas and constants for making various calculations (2023)             
+
+**https://pypi.org/project/physconsts** - package that provides physical constants                     
+https://pypi.org/project/astroconst - package that provides astronomical constants                 
+
+## 📄 Arcticles                  
+2020 [codeproject: Using Python to Solve Computational Physics Problems](www.codeproject.com/Articles/1087025/Using-Python-to-Solve-Computational-Physics-Proble)                   
+2018 [Математическая модель тепловыделяющего элемента ядерного реактора](https://www.pvsm.ru/python/275526?ysclid=lqpa4a3w7f254726862)             
+**https://www.pvsm.ru/python**                  
+         
