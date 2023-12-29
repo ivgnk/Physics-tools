@@ -13,7 +13,7 @@ https://github.com/Developer-Y/math-science-video-lectures
 
 **https://github.com/pygae/galgebra** - Symbolic Geometric Algebra/Calculus package for SymPy           
 **https://github.com/WassimTenachi/PhySO** - Physical Symbolic Optimization                    
-**https://github.com/gboeing/pynamical** -  modeling and visualizing discrete nonlinear dynamical systems, chaos, and fractals                   
+**https://github.com/gboeing/pynamical** -  modeling and visualizing discrete nonlinear dynamical systems, chaos, and fractals                             
 
 https://github.com/NVIDIA/modulus - deep-learning framework using state-of-the-art Physics-ML methods              
 
@@ -21,11 +21,11 @@ https://github.com/pygae/clifford - Geometric Algebra for Python
 
 
 
-https://github.com/meshpro/optimesh - mesh smoothing/optimization methods
-https://github.com/quantum-visualizations/qmsolve -  solving and visualizing the Schrödinger equation               
+https://github.com/meshpro/optimesh - mesh smoothing/optimization methods                              
+https://github.com/quantum-visualizations/qmsolve -  solving and visualizing the Schrödinger equation                               
 
-https://github.com/CalebBell/thermo - Thermodynamics and Phase Equilibrium
-https://github.com/PlasmaPy/PlasmaPy - plasma research and education
+https://github.com/CalebBell/thermo - Thermodynamics and Phase Equilibrium                          
+https://github.com/PlasmaPy/PlasmaPy - plasma research and education                    
 
 
 - - -
