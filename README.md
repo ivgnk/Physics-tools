@@ -56,11 +56,26 @@ https://github.com/SMALA-comand/Fourier
 **https://github.com/topics/nonlinear-dynamics**         
 https://github.com/dynamicslab/pysindy             
 https://github.com/pnnl/neuromancer            
-https://github.com/lantunes/cellpylib - working with Cellular Automata                 
+https://github.com/lantunes/cellpylib - working with Cellular Automata     
+
+**https://github.com/topics/cellular-automata**               
+**https://github.com/Chakazul/Lenia**                       
+https://github.com/chenmingxiang110/Growing-Neural-Cellular-Automata             
+https://github.com/lantunes/cellpylib                 
+https://github.com/ljvmiranda921/seagull               
+https://github.com/elliotwaite/rule-30-and-game-of-life                   
+https://github.com/robertmartin8/PyGameofLife                         
+https://github.com/96lives/gca                  
+
+**https://github.com/topics/monte-carlo-simulation**                   
+https://github.com/fmilthaler/FinQuant             
+https://github.com/cgre-aachen/gempy - 3-D structural geological modeling software                       
+
+
 - - -
 
 
-https://github.com/ahundt/awesome-robotics
-https://github.com/zalo/MathUtilities (C#)                      
-https://github.com/root-project/root (C++) Data analysis                         
+https://github.com/ahundt/awesome-robotics                 
+https://github.com/zalo/MathUtilities (C#)                                 
+https://github.com/root-project/root (C++) Data analysis                                      
 
