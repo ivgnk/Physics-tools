@@ -1,6 +1,6 @@
 # Physics-tools (mainly in Python)
 
-# GitHub           
+## GitHub           
 https://github.com/topics/physics            
 https://github.com/topics/physics?l=python            
 
@@ -15,8 +15,10 @@ https://github.com/Developer-Y/math-science-video-lectures
 **https://github.com/WassimTenachi/PhySO** - Physical Symbolic Optimization                    
 **https://github.com/gboeing/pynamical** -  modeling and visualizing discrete nonlinear dynamical systems, chaos, and fractals                             
 **https://github.com/harvey2phase/computational-physics**                 
+**https://github.com/ankonzoid/XY_universe** - 2D particle survival environment               
 
-https://github.com/rohankishore/PhysiPy - calculate all types of Physics Formulae
+https://github.com/rohankishore/PhysiPy - calculate all types of Physics Formulae                        
+https://github.com/HussainAther/physics - mechanics, statistical mechanics, fluid dynamics, thermodynamics, quantum mechanics, electromagnetism                
 
 https://github.com/dstansby/pfsspy - Potential Field Source Surface model package for Python                   
 https://github.com/maroba/multipoles - multipole expansions of electrostatic or gravitational potentials
@@ -38,7 +40,23 @@ https://github.com/quantum-visualizations/qmsolve -  solving and visualizing the
 https://github.com/CalebBell/thermo - Thermodynamics and Phase Equilibrium                          
 https://github.com/PlasmaPy/PlasmaPy - plasma research and education                    
 
+### Nuclear                   
+https://github.com/topics/nuclear                   
+**https://github.com/php1ic/pynch** - python dash app to interrogate nuclear mass data               
 
+### Wavelet                  
+https://github.com/topics/wavelet-analysis?l=python                      
+https://github.com/regeirk/pycwt               
+https://github.com/v0lta/PyTorch-Wavelet-Toolbox              
+**https://github.com/giswqs/geoscale**               
+**https://github.com/Egauvrit/wst4gs** - Wavelet Scattering Transform applied for Geo Sciences                   
+https://github.com/SMALA-comand/Fourier 
+
+### Others
+**https://github.com/topics/nonlinear-dynamics**         
+https://github.com/dynamicslab/pysindy             
+https://github.com/pnnl/neuromancer            
+https://github.com/lantunes/cellpylib - working with Cellular Automata                 
 - - -
 
 
