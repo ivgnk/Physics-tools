@@ -58,6 +58,8 @@ https://github.com/zhihuanli/Experimental-Data-Analysis-Course
 **https://github.com/php1ic/pynch** - python dash app to interrogate nuclear mass data               
 https://github.com/paolofinelli/Theoretical-and-Numerical-Nuclear-Physics-Course            
 
+https://github.com/yunruse/binding-energy        
+https://github.com/Devendra20-20/Nuclear_Physics                   
 
 
 ### Wavelet                  
