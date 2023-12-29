@@ -109,8 +109,13 @@ https://pypi.org/project/physics-gabri432/ - several physics formulas and consta
 **https://pypi.org/project/physconsts** - package that provides physical constants                     
 https://pypi.org/project/astroconst - package that provides astronomical constants                 
 
+## 🔥 Sites 
+[The Nuclear Multimessenger Astronomy (NMMA) framework](https://nuclear-multimessenger-astronomy.github.io/nmma/)                    
+
+
 ## 📄 Arcticles                  
 2020 [codeproject: Using Python to Solve Computational Physics Problems](www.codeproject.com/Articles/1087025/Using-Python-to-Solve-Computational-Physics-Proble)                   
 2018 [Математическая модель тепловыделяющего элемента ядерного реактора](https://www.pvsm.ru/python/275526?ysclid=lqpa4a3w7f254726862)             
 **https://www.pvsm.ru/python**                  
-         
+[Arithmetica, или Python для инженеров и исследователей](https://russianlutheran.org/python/python.html)                           
+[Моделирование физических процессов на Python](https://pygame.ru/blog/modelirovanie-fizicheskih-protsessov-na-python.php) - list of video                  
