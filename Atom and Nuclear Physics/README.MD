@@ -1,13 +1,16 @@
 # Atom and Nuclear Physics (incl. AstroPhysics)
 
-## Organisations
+## Organisations / Data
 [International Atomic Energy Agency / Международное агентство по атомной энергии](https://www-nds.iaea.org)                  
 [International commission on radiological protection](https://www.icrp.org/index.asp)
 
-## LibrariesP/programms
+[ICRP Publication 107. Nuclear Decay Data for Dosimetric Calculations](https://www.icrp.org/publication.asp?id=ICRP%20Publication%20107)          
+
+## Libraries / Programms
 
 ### radioactivedecay
-https://pypi.org/project/radioactivedecay                  
+https://pypi.org/project/radioactivedecay   
+https://github.com/radioactivedecay/
 https://github.com/radioactivedecay/datasets
 
 https://radioactivedecay.github.io            
