@@ -1,4 +1,4 @@
-# Atom and Nuclear Physics
+# Atom and Nuclear Physics (incl. AstroPhysics)
 
 ## Organisations
 [International Atomic Energy Agency / Международное агентство по атомной энергии](https://www-nds.iaea.org)                  
