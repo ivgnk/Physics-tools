@@ -1,7 +1,7 @@
 # Atom and Nuclear Physics
 
 ## Organisations
-[Международное агентство по атомной энергии (International Atomic Energy Agency)](https://www-nds.iaea.org)                  
+[International Atomic Energy Agency / Международное агентство по атомной энергии](https://www-nds.iaea.org)                  
 [International commission on radiological protection](https://www.icrp.org/index.asp)
 
 ## LibrariesP/programms
