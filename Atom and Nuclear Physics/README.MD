@@ -9,9 +9,9 @@
 ## Libraries / Programms
 
 ### radioactivedecay
-https://pypi.org/project/radioactivedecay   
-https://github.com/radioactivedecay/
-https://github.com/radioactivedecay/datasets
+https://pypi.org/project/radioactivedecay          
+https://github.com/radioactivedecay                   
+https://github.com/radioactivedecay/datasets                           
 
 https://radioactivedecay.github.io            
 https://radioactivedecay.github.io/theory.html                
