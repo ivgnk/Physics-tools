@@ -98,7 +98,30 @@ https://github.com/zalo/MathUtilities (C#)
 https://github.com/root-project/root (C++) Data analysis                                      
 
 ## 🏠 PyPi
-### Nuclear                   
+### Visualization          
+https://pypi.org/project/grid3d-maps - maps from 3D grid properties.
+
+### Physics            
+https://pypi.org/search/?q=&o=-created&c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Physics           
+https://pypi.org/project/freva -  atmospheric science           
+https://pypi.org/project/power-grid-model -  power system analysis (grid)                
+https://pypi.org/project/ert -  is designed for running ensembles of dynamical models such as reservoir models, in order to do sensitivity analysis and data assimilation               
+Micromagnetic             
+https://pypi.org/project/ubermag             https://ubermag.github.io          https://www.youtube.com/channel/UC7MSqVQSMFV42R1jAYmKGLg                   
+https://pypi.org/project/ubermagutil                
+
+#### Waves         
+https://pypi.org/project/pyroomacoustics                   
+
+### Bio Physics                   
+https://pypi.org/project/vivarium         
+
+### Astro Physics                   
+https://pypi.org/project/planetmapper               
+https://pypi.org/project/finesse-virgo              
+https://pypi.org/project/speasy                
+
+### Nuclear Physics                   
 https://pypi.org/search/?q=nuclear+physics              
 https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Scientific%2FEngineering                      
 https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Scientific%2FEngineering&c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Physics                    
@@ -108,6 +131,9 @@ https://pypi.org/project/physics-gabri432/ - several physics formulas and consta
 
 **https://pypi.org/project/physconsts** - package that provides physical constants                     
 https://pypi.org/project/astroconst - package that provides astronomical constants                 
+https://pypi.org/project/pysipfenn - atomic 
+
+
 
 ## 🔥 Sites 
 [The Nuclear Multimessenger Astronomy (NMMA) framework](https://nuclear-multimessenger-astronomy.github.io/nmma/)                    
