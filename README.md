@@ -152,7 +152,12 @@ https://pypi.org/project/chaosmagpy
 https://pypi.org/project/pyroomacoustics             
 https://pypi.org/project/merlict - ray tracing           
 
-### Geo Physics                   
+### Geo Physics                  
+https://pypi.org/project/gempy - 3D geological models
+https://pypi.org/project/mira-simpeg/
+
+https://pypi.org/project/neighpy - 
+
 https://pypi.org/project/chaosmagpy - Earth’s magnetic field
 https://pypi.org/project/Mira-SimPEG      
 https://pypi.org/project/mira-omf            
