@@ -165,15 +165,23 @@ https://pypi.org/project/discretize/
 
 **https://pypi.org/project/pygimli**             
 
-**https://pypi.org/project/ensaio/**          
+**https://pypi.org/project/fatiando/**
+**https://pypi.org/project/boule/**
+**https://pypi.org/project/pooch/**       
+**https://pypi.org/project/harmonica/**
 **https://pypi.org/project/verde/**                
 **https://pypi.org/project/pygmt/**          
+**https://pypi.org/project/choclo/**           
+**https://pypi.org/project/ensaio/**  
+https://pypi.org/project/sphinx-gmt/
+
+
 
 
 https://pypi.org/project/avni - Analysis and Visualization toolkit for plaNetary Inferences             
+https://pypi.org/project/stoneforge          
 
 https://pypi.org/project/pide       https://github.com/sinanozaydin/pide   -  library for calculating geophysical parameters (e.g., electrical conductivity, seismic velocity), employing the results from experimental petrology, mineral/rock physics, and thermomechanical modelling studies                             
-https://pypi.org/project/mira-simpeg/
 
 
 
@@ -182,13 +190,16 @@ https://pypi.org/project/PVGeo -
 https://pypi.org/project/mplstereonet/
 
 ##### Geodezy            
+**https://pypi.org/project/boule/**
 https://pypi.org/project/geodezyx                       
 https://github.com/underworldcode/stripy    
-https://pypi.org/project/pysolid - solid Earth tides          
+https://pypi.org/project/pysolid - solid Earth tides  
+https://pypi.org/project/Tectonic-Utils           
 
 #### Algo
 https://pypi.org/project/pymarchenko/        
-https://pylops.readthedocs.io/en/stable/              
+https://pylops.readthedocs.io/en/stable/     
+https://pypi.org/project/ipdw - Inverse Path-Distance Weighted Interpolation           
 
 https://pypi.org/project/geobipy/
 https://pypi.org/project/neighpy
@@ -207,6 +218,7 @@ https://pypi.org/project/geoapps
 https://pypi.org/project/Mira-SimPEG           
 https://pypi.org/project/mira-omf             
 
+
 https://pypi.org/project/geoh5py            
 https://pypi.org/project/curve-apps - Auto-detection of trends and edges in geoscientific data             
 https://pypi.org/project/geoapps-utils              
@@ -214,10 +226,13 @@ https://pypi.org/project/geoapps-utils
 https://pypi.org/project/pyinterp - optimized geo-referenced interpolation              
 
 #### Gravi        
+https://pypi.org/project/gravity-toolkit - working with Level-2 spherical harmonic coefficients from the NASA/DLR Gravity Recovery and Climate Experiment (GRACE) and the NASA/GFZ Gravity Recovery and Climate Experiment Follow-On (GRACE-FO) missions               
 https://pypi.org/project/grav-toolbox - for processing relative gravity surveys developed at the Austrian Federal Office of Metrology and Surveying (BEV)                
 https://pypi.org/project/invert4geom/
 https://pypi.org/project/polyhedral-gravity      
 https://pypi.org/project/pyshtools -  spherical harmonic transforms, multitaper spectral analyses, expansions of gridded data into Slepian basis functions, standard operations on global gravitational and magnetic field data         
+https://pypi.org/project/tidegravity -  Ivor Longman’s scheme for computing the tidal accelerations due to the moon and sun               
+https://pypi.org/project/ctplanet -   crustal thickness maps of planets from gravity and topography                   
 
 #### Magn               
 https://pypi.org/project/PyGeopack - Earth magnetic models                
@@ -234,11 +249,14 @@ https://pypi.org/project/pymaginverse/
 
 #### Electro / ElectroMagnetic  
 https://pypi.org/project/reda - geoelectrical data analysis            
-https://pypi.org/project/ragu - radar 
+**https://pypi.org/project/ragu - radar**
+https://pypi.org/project/pycsamt - audio-frequency magnetotellurics                 
 https://pypi.org/project/ttcrpy - computing traveltimes and raytracing that was developed with geophysical applications in mind, e.g. ray-based seismic/GPR tomography            
 https://pypi.org/project/pyswipe - Swarm Ionospheric Polar Electrodynamics (SWIPE) model                 
 
-#### 3D structures / 3D geological models       
+#### 3D structures / 3D geological models     
+https://pypi.org/project/avni/
+
 https://pypi.org/project/gempy      
 https://pypi.org/project/LoopStructural           
 https://pypi.org/project/cigvis    
@@ -255,7 +273,8 @@ https://pypi.org/project/pyprop8 - the seismogram calculation algorithm set
 https://pypi.org/project/IslandOfMisfitToys         
 https://pypi.org/project/seisplot            
 https://pypi.org/project/seismutils       
-https://pypi.org/project/pyrocko         
+https://pypi.org/project/pyrocko -  seismology toolkit for Python                 
+https://pypi.org/project/hectorp -  estimate a trend in time series with temporal correlated noise       
 
 
 #### Geo Flows       
@@ -275,6 +294,7 @@ https://pypi.org/project/tom-fink
 https://sunpy.org - solar data analysis   https://pypi.org/project/sunpy                       
 https://pypi.org/project/figaro           
 https://pypi.org/project/ocbpy        
+https://pypi.org/project/redplanet - Mars datasets        
 
 ### Nuclear Physics                   
 https://pypi.org/search/?q=nuclear+physics              
