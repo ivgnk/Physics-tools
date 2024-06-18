@@ -156,7 +156,6 @@ https://pypi.org/project/merlict - ray tracing
 #### Main
 **https://pypi.org/project/verde/**
 
-https://pypi.org/project/gempy - 3D geological models
 https://pypi.org/project/mira-simpeg/
 
 #### Algo
@@ -173,9 +172,18 @@ https://pypi.org/project/geoapps-utils
 
 https://pypi.org/project/pyinterp - optimized geo-referenced interpolation              
 
+#### Gravi        
+https://pypi.org/project/invert4geom/
+
+#### Magn               
+https://pypi.org/project/pmagpy - analyzing paleomagnetic data           
+
 #### ElectroMagnetic             
 https://pypi.org/project/ragu/
 
+#### 3D structures        
+https://pypi.org/project/gempy - 3D geological models
+https://pypi.org/project/LoopStructural/
 
 #### Geo Flows       
 https://pypi.org/project/woffl     
