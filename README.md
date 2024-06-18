@@ -148,6 +148,7 @@ https://pypi.org/project/ubermagutil
 https://pypi.org/project/planetMagFields   
 https://pypi.org/project/chaosmagpy
 
+
 #### Waves         
 https://pypi.org/project/pyroomacoustics             
 https://pypi.org/project/merlict - ray tracing           
@@ -194,13 +195,16 @@ https://pypi.org/project/mplstereonet/
 https://pypi.org/project/geodezyx                       
 https://github.com/underworldcode/stripy    
 https://pypi.org/project/pysolid - solid Earth tides  
-https://pypi.org/project/Tectonic-Utils           
+https://pypi.org/project/Tectonic-Utils    
+https://pypi.org/project/pygeode
 
 #### Algo
 https://pypi.org/project/pymarchenko/        
 https://pylops.readthedocs.io/en/stable/     
 https://pypi.org/project/ipdw - Inverse Path-Distance Weighted Interpolation           
+https://pypi.org/project/bruges/
 
+https://pypi.org/project/gcm-filters - Diffusion-based Spatial Filtering of Gridded Data        
 https://pypi.org/project/geobipy/
 https://pypi.org/project/neighpy
 https://pypi.org/project/geotaichi 
@@ -212,6 +216,12 @@ https://pypi.org/project/geo-espresso/
 
 https://pypi.org/project/chaosmagpy - Earth’s magnetic field
 https://pypi.org/project/Rbeast - ayesian changepoint detection and time series decomposition              
+
+https://pypi.org/project/varstool 
+https://pypi.org/project/GeophPy - sub-surface geophysical survey data processing
+
+https://pypi.org/project/inversion-test-problems/
+https://pypi.org/project/inversion-test-test/
 
 ##### Mira          
 https://pypi.org/project/geoapps             
@@ -241,7 +251,11 @@ https://pypi.org/project/pmagpy - analyzing paleomagnetic data
 https://pypi.org/project/KT17 - Magnetic field model for Mercury     
 https://pypi.org/project/con2020/ - Magnetic field model for Jovian  
 https://pypi.org/project/pyamps 
-https://pypi.org/project/planetMagFields            
+https://pypi.org/project/planetMagFields 
+https://pypi.org/project/pyfiri - model of the non-auroral Earth’s ionosphere
+https://pypi.org/project/mmt-multipole-inversion - 
+https://pypi.org/project/jrm33 - 
+
 
 ##### Paleomagnetic data          
 https://pypi.org/project/pmagpy-cli/ 
@@ -251,6 +265,7 @@ https://pypi.org/project/pymaginverse/
 #### Electro / ElectroMagnetic  
 https://pypi.org/project/reda - geoelectrical data analysis            
 **https://pypi.org/project/ragu - radar**
+https://pypi.org/project/seg2-files - reading SEG2 format seismic or radar files                  
 https://pypi.org/project/pycsamt - audio-frequency magnetotellurics                 
 https://pypi.org/project/ttcrpy - computing traveltimes and raytracing that was developed with geophysical applications in mind, e.g. ray-based seismic/GPR tomography            
 https://pypi.org/project/pyswipe - Swarm Ionospheric Polar Electrodynamics (SWIPE) model                 
@@ -267,6 +282,8 @@ https://pypi.org/project/webgeodyn/
 
 #### Seismo         
 https://pypi.org/project/obsplus
+https://pypi.org/project/obspydmt/
+
 https://pypi.org/project/python-seispy - processing seismological data and calculating Receiver Functions        
 https://pypi.org/project/seisgo         
 https://pypi.org/project/pisces - 
