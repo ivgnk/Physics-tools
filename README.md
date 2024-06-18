@@ -159,19 +159,37 @@ https://stacspec.org
 
 **https://pypi.org/project/pygmi**            
 **https://pypi.org/project/simpeg**         
+        is a part of the larger SimPEG ecosystem                                 
+https://pypi.org/project/geoana - a collection of (mostly) analytic functions in geophysics 
+https://pypi.org/project/discretize/
+
 **https://pypi.org/project/pygimli**             
 
 **https://pypi.org/project/ensaio/**          
 **https://pypi.org/project/verde/**                
 **https://pypi.org/project/pygmt/**          
 
-https://pypi.org/project/PVGeo - visualization in geophysics         
+
+https://pypi.org/project/avni - Analysis and Visualization toolkit for plaNetary Inferences             
 
 https://pypi.org/project/pide       https://github.com/sinanozaydin/pide   -  library for calculating geophysical parameters (e.g., electrical conductivity, seismic velocity), employing the results from experimental petrology, mineral/rock physics, and thermomechanical modelling studies                             
 https://pypi.org/project/mira-simpeg/
 
+
+
+##### Visualization in geophysics         
+https://pypi.org/project/PVGeo - 
+https://pypi.org/project/mplstereonet/
+
+##### Geodezy            
+https://pypi.org/project/geodezyx                       
+https://github.com/underworldcode/stripy    
+https://pypi.org/project/pysolid - solid Earth tides          
+
 #### Algo
-https://pypi.org/project/geodezyx/
+https://pypi.org/project/pymarchenko/        
+https://pylops.readthedocs.io/en/stable/              
+
 https://pypi.org/project/geobipy/
 https://pypi.org/project/neighpy
 https://pypi.org/project/geotaichi 
@@ -207,6 +225,7 @@ https://pypi.org/project/pmagpy - analyzing paleomagnetic data
 https://pypi.org/project/KT17 - Magnetic field model for Mercury     
 https://pypi.org/project/con2020/ - Magnetic field model for Jovian  
 https://pypi.org/project/pyamps 
+https://pypi.org/project/planetMagFields            
 
 ##### Paleomagnetic data          
 https://pypi.org/project/pmagpy-cli/ 
@@ -247,8 +266,8 @@ https://pypi.org/project/xtgeo - subsurface reservoir modelling
 https://pypi.org/project/vivarium         
 
 ### Astro Physics           
-**https://pypi.org/project/astropy/**              
-https://pypi.org/project/planetMagFields            
+**https://pypi.org/project/astropy/** 
+https://pypi.org/project/astronomy-engine/    
 https://pypi.org/project/planetmapper               
 https://pypi.org/project/finesse-virgo              
 https://pypi.org/project/speasy                
