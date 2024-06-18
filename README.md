@@ -153,10 +153,15 @@ https://pypi.org/project/pyroomacoustics
 https://pypi.org/project/merlict - ray tracing           
 
 ### Geo Physics                  
+#### Main
+**https://pypi.org/project/verde/**
+
 https://pypi.org/project/gempy - 3D geological models
 https://pypi.org/project/mira-simpeg/
 
-https://pypi.org/project/neighpy - 
+#### Algo
+https://pypi.org/project/geobipy/
+https://pypi.org/project/neighpy
 
 https://pypi.org/project/chaosmagpy - Earth’s magnetic field
 https://pypi.org/project/Mira-SimPEG      
@@ -167,6 +172,10 @@ https://pypi.org/project/curve-apps - Auto-detection of trends and edges in geos
 https://pypi.org/project/geoapps-utils   
 
 https://pypi.org/project/pyinterp - optimized geo-referenced interpolation              
+
+#### ElectroMagnetic             
+https://pypi.org/project/ragu/
+
 
 #### Geo Flows       
 https://pypi.org/project/woffl     
