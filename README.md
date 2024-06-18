@@ -98,28 +98,88 @@ https://github.com/zalo/MathUtilities (C#)
 https://github.com/root-project/root (C++) Data analysis                                      
 
 ## 🏠 PyPi
+### Math tools        
+**https://openturns.github.io** - Treatment of Uncertainties, Risks'N Statistics
+https://pypi.org/project/uncertainties         
+https://pypi.org/project/admmsolver      
+https://pypi.org/project/consensusgen         
+https://pypi.org/project/degann       
+https://pypi.org/project/pymnet        
+
 ### Visualization          
-https://pypi.org/project/grid3d-maps - maps from 3D grid properties.
+**https://docs.pyvista.org/version/stable** - 3D plotting and mesh analysis        
+**https://pypi.org/project/DataVisual/** - 
+https://pypi.org/project/grid3d-maps - maps from 3D grid properties                    
+https://pypi.org/project/hist/
+
+https://pypi.org/project/curve-apps - Auto-detection of trends and edges in geoscientific data                     
+https://pypi.org/project/pyxel-sim/
+
+https://pypi.org/project/geoh5py      
+https://pypi.org/project/pyinterp - optimized geo-referenced interpolation             
+https://vedo.embl.es https://pypi.org/project/vedo        -    scientific analysis and visualization of 3d objects
+https://pypi.org/project/vector             
+https://pypi.org/project/trajectorytools           
+
+https://pypi.org/project/nifty8 - Numerical Information Field Theory        
+https://pypi.org/project/spherical-geometry         
 
 ### Physics            
 https://pypi.org/search/?q=&o=-created&c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Physics           
+
+**https://kratosmultiphysics.github.io**  - Multiphysics
+https://github.com/KratosMultiphysics/Kratos
+https://pypi.org/search/?q=Kratos          
+
+https://pypi.org/project/pymunk -  2D physics library - 2D rigid body physics                   
+https://pypi.org/project/mendeleev - periodic table of elements            
 https://pypi.org/project/freva -  atmospheric science           
 https://pypi.org/project/power-grid-model -  power system analysis (grid)                
-https://pypi.org/project/ert -  is designed for running ensembles of dynamical models such as reservoir models, in order to do sensitivity analysis and data assimilation               
-Micromagnetic             
+https://pypi.org/project/ert -  is designed for running ensembles of dynamical models such as reservoir models, in order to do sensitivity analysis and data assimilation                
+https://pypi.org/project/oompy -  working with physical units and quantities. Unlike astropy it works in gaussian units              
+
+#### Electromagnetic         
+https://pypi.org/project/peak-finder-app            
+https://pypi.org/project/lyceanem          
+
+#### Magnetic             
 https://pypi.org/project/ubermag             https://ubermag.github.io          https://www.youtube.com/channel/UC7MSqVQSMFV42R1jAYmKGLg                   
-https://pypi.org/project/ubermagutil                
+https://pypi.org/project/ubermagutil    
+https://pypi.org/project/planetMagFields   
+https://pypi.org/project/chaosmagpy
 
 #### Waves         
-https://pypi.org/project/pyroomacoustics                   
+https://pypi.org/project/pyroomacoustics             
+https://pypi.org/project/merlict - ray tracing           
+
+### Geo Physics                   
+https://pypi.org/project/chaosmagpy - Earth’s magnetic field
+https://pypi.org/project/Mira-SimPEG      
+https://pypi.org/project/mira-omf            
+
+https://pypi.org/project/geoh5py            
+https://pypi.org/project/curve-apps - Auto-detection of trends and edges in geoscientific data             
+https://pypi.org/project/geoapps-utils   
+
+https://pypi.org/project/pyinterp - optimized geo-referenced interpolation              
+
+#### Geo Flows       
+https://pypi.org/project/woffl     
+https://pypi.org/project/xtgeo - subsurface reservoir modelling           
 
 ### Bio Physics                   
 https://pypi.org/project/vivarium         
 
-### Astro Physics                   
+### Astro Physics           
+**https://pypi.org/project/astropy/**              
+https://pypi.org/project/planetMagFields            
 https://pypi.org/project/planetmapper               
 https://pypi.org/project/finesse-virgo              
 https://pypi.org/project/speasy                
+https://pypi.org/project/tom-fink            
+https://sunpy.org - solar data analysis   https://pypi.org/project/sunpy                       
+https://pypi.org/project/figaro           
+https://pypi.org/project/ocbpy        
 
 ### Nuclear Physics                   
 https://pypi.org/search/?q=nuclear+physics              
