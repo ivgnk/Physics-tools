@@ -154,9 +154,14 @@ https://pypi.org/project/merlict - ray tracing
 
 ### Geo Physics                  
 #### Main
-**https://pypi.org/project/pygimli**
+**https://pangeo.io** - for Big Data geoscience
+https://stacspec.org
 
-**https://pypi.org/project/verde/**
+**https://pypi.org/project/simpeg/**         
+**https://pypi.org/project/pygimli**             
+
+**https://pypi.org/project/verde/**                
+**https://pypi.org/project/pygmt/**            
 
 https://pypi.org/project/pide       https://github.com/sinanozaydin/pide   -  library for calculating geophysical parameters (e.g., electrical conductivity, seismic velocity), employing the results from experimental petrology, mineral/rock physics, and thermomechanical modelling studies                             
 https://pypi.org/project/mira-simpeg/
@@ -166,6 +171,9 @@ https://pypi.org/project/geodezyx/
 https://pypi.org/project/geobipy/
 https://pypi.org/project/neighpy
 https://pypi.org/project/geotaichi 
+
+https://pypi.org/project/xinvert/               
+https://pypi.org/project/cofi/            
 
 https://pypi.org/project/chaosmagpy - Earth’s magnetic field
 https://pypi.org/project/Mira-SimPEG      
@@ -178,6 +186,7 @@ https://pypi.org/project/geoapps-utils
 https://pypi.org/project/pyinterp - optimized geo-referenced interpolation              
 
 #### Gravi        
+https://pypi.org/project/grav-toolbox - for processing relative gravity surveys developed at the Austrian Federal Office of Metrology and Surveying (BEV)                
 https://pypi.org/project/invert4geom/
 https://pypi.org/project/polyhedral-gravity      
 
@@ -185,22 +194,27 @@ https://pypi.org/project/polyhedral-gravity
 https://pypi.org/project/PyGeopack - Earth magnetic models                
 https://pypi.org/project/pmagpy - analyzing paleomagnetic data           
 https://pypi.org/project/KT17 - Magnetic field model for Mercury      
+https://pypi.org/project/pyamps 
 
 ##### Paleomagnetic data          
 https://pypi.org/project/pmagpy-cli/ 
 https://pypi.org/project/pymaginverse/
 
 
-#### ElectroMagnetic             
-https://pypi.org/project/ragu/
+#### Electro / ElectroMagnetic  
+https://pypi.org/project/reda - geoelectrical data analysis            
+https://pypi.org/project/ragu - radar 
 https://pypi.org/project/pyswipe - Swarm Ionospheric Polar Electrodynamics (SWIPE) model                 
 
-#### 3D structures        
-https://pypi.org/project/gempy - 3D geological models
-https://pypi.org/project/LoopStructural/
+#### 3D structures / 3D geological models       
+https://pypi.org/project/gempy      
+https://pypi.org/project/LoopStructural           
+https://pypi.org/project/cigvis          
 
 #### Seismo         
 https://pypi.org/project/python-seispy - processing seismological data and calculating Receiver Functions        
+https://pypi.org/project/seisgo         
+https://pypi.org/project/pisces - 
 https://pypi.org/project/pyprop8 - the seismogram calculation algorithm set           
 
 
