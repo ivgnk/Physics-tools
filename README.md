@@ -165,17 +165,17 @@ https://pypi.org/project/discretize/
 
 **https://pypi.org/project/pygimli**             
 
-**https://pypi.org/project/fatiando/**
-**https://pypi.org/project/boule/**
+**https://pypi.org/project/fatiando/**                
+**https://pypi.org/project/boule/**                
 **https://pypi.org/project/pooch/**       
-**https://pypi.org/project/harmonica/**
+**https://pypi.org/project/harmonica/**                   
 **https://pypi.org/project/verde/**                
 **https://pypi.org/project/pygmt/**          
 **https://pypi.org/project/choclo/**           
-**https://pypi.org/project/ensaio/**  
-https://pypi.org/project/sphinx-gmt/
+**https://pypi.org/project/ensaio/**       
+https://pypi.org/project/sphinx-gmt/                
 
-
+https://pypi.org/project/geoscilabs             
 
 
 https://pypi.org/project/avni - Analysis and Visualization toolkit for plaNetary Inferences             
@@ -226,6 +226,7 @@ https://pypi.org/project/geoapps-utils
 https://pypi.org/project/pyinterp - optimized geo-referenced interpolation              
 
 #### Gravi        
+https://pypi.org/project/geoid-toolkit             
 https://pypi.org/project/gravity-toolkit - working with Level-2 spherical harmonic coefficients from the NASA/DLR Gravity Recovery and Climate Experiment (GRACE) and the NASA/GFZ Gravity Recovery and Climate Experiment Follow-On (GRACE-FO) missions               
 https://pypi.org/project/grav-toolbox - for processing relative gravity surveys developed at the Austrian Federal Office of Metrology and Surveying (BEV)                
 https://pypi.org/project/invert4geom/
