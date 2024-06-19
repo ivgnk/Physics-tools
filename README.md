@@ -222,6 +222,8 @@ https://pypi.org/project/GeophPy - sub-surface geophysical survey data processin
 
 https://pypi.org/project/inversion-test-problems/
 https://pypi.org/project/inversion-test-test/
+https://pypi.org/project/geobo - Multi-Objective Bayesian Optimisation and Joint Inversion in Geosciences              
+https://pypi.org/project/pyhomogeneity - Homogeneity Test          
 
 ##### Mira          
 https://pypi.org/project/geoapps             
@@ -254,8 +256,11 @@ https://pypi.org/project/pyamps
 https://pypi.org/project/planetMagFields 
 https://pypi.org/project/pyfiri - model of the non-auroral Earth’s ionosphere
 https://pypi.org/project/mmt-multipole-inversion - 
-https://pypi.org/project/jrm33 - 
 
+Jupiter's magnetic field             
+https://pypi.org/project/jrm09               
+https://pypi.org/project/jrm33               
+https://pypi.org/project/pycurious - computing the Curie depth from magnetic data             
 
 ##### Paleomagnetic data          
 https://pypi.org/project/pmagpy-cli/ 
@@ -266,9 +271,14 @@ https://pypi.org/project/pymaginverse/
 https://pypi.org/project/reda - geoelectrical data analysis            
 **https://pypi.org/project/ragu - radar**
 https://pypi.org/project/seg2-files - reading SEG2 format seismic or radar files                  
+
 https://pypi.org/project/pycsamt - audio-frequency magnetotellurics                 
+https://pypi.org/project/resistics -  processing of magnetotelluric (MT) data                     
+
 https://pypi.org/project/ttcrpy - computing traveltimes and raytracing that was developed with geophysical applications in mind, e.g. ray-based seismic/GPR tomography            
 https://pypi.org/project/pyswipe - Swarm Ionospheric Polar Electrodynamics (SWIPE) model                 
+https://pypi.org/project/libdlf        
+https://pypi.org/project/petgem - 3D Controlled-Source Electromagnetic Method (3D CSEM) in geophysics using high-order edge finite elements (Nédélec finite elements)               
 
 #### 3D structures / 3D geological models     
 https://pypi.org/project/avni/
