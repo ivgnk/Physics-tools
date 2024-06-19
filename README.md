@@ -164,6 +164,8 @@ https://stacspec.org
 https://pypi.org/project/geoana - a collection of (mostly) analytic functions in geophysics 
 https://pypi.org/project/discretize/
 
+https://pypi.org/project/shingle/
+
 **https://pypi.org/project/pygimli**             
 
 **https://pypi.org/project/fatiando/**                
@@ -174,10 +176,14 @@ https://pypi.org/project/discretize/
 **https://pypi.org/project/pygmt/**          
 **https://pypi.org/project/choclo/**           
 **https://pypi.org/project/ensaio/**       
-https://pypi.org/project/sphinx-gmt/                
+https://pypi.org/project/sphinx-gmt/    
+
+**madagascar** - https://github.com/pyahay/             http://www.ahay.org/             
 
 https://pypi.org/project/geoscilabs             
 
+https://pypi.org/project/WuMapPy/          
+https://pypi.org/project/GeophPy/           
 
 https://pypi.org/project/avni - Analysis and Visualization toolkit for plaNetary Inferences             
 https://pypi.org/project/stoneforge          
@@ -223,7 +229,9 @@ https://pypi.org/project/GeophPy - sub-surface geophysical survey data processin
 https://pypi.org/project/inversion-test-problems/
 https://pypi.org/project/inversion-test-test/
 https://pypi.org/project/geobo - Multi-Objective Bayesian Optimisation and Joint Inversion in Geosciences              
-https://pypi.org/project/pyhomogeneity - Homogeneity Test          
+https://pypi.org/project/pyhomogeneity - Homogeneity Test 
+https://pypi.org/project/ader/ - solving any (potentially very stiff) hyperbolic system of PDEs            
+https://pypi.org/project/neighborhood - Neighborhood Algorithm Optimization and Ensemble Appraisal              
 
 ##### Mira          
 https://pypi.org/project/geoapps             
@@ -255,7 +263,8 @@ https://pypi.org/project/con2020/ - Magnetic field model for Jovian
 https://pypi.org/project/pyamps 
 https://pypi.org/project/planetMagFields 
 https://pypi.org/project/pyfiri - model of the non-auroral Earth’s ionosphere
-https://pypi.org/project/mmt-multipole-inversion - 
+https://pypi.org/project/mmt-multipole-inversion 
+https://pypi.org/project/geomag/ -   
 
 Jupiter's magnetic field             
 https://pypi.org/project/jrm09               
