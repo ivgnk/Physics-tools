@@ -77,6 +77,7 @@ https://en.wikipedia.org/wiki/Category:Computer-aided_design
 https://en.wikipedia.org/wiki/Computer-automated_design
 
 RUS         
+**https://ru.wikipedia.org/wiki/Симулятор_гидроразрыва_пласта** :  MFrac, FRACPRO, FracCADE, StimPlan, GOHFER, Kinetix           
 https://ru.wikipedia.org/wiki/Категория:Прикладное_программное_обеспечение                     
 https://ru.wikipedia.org/wiki/Категория:Научное_программное_обеспечение                    
 https://ru.wikipedia.org/wiki/Категория:Математическое_программное_обеспечение                
