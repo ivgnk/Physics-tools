@@ -28,9 +28,9 @@ https://ru.wikipedia.org/wiki/Механика
 **https://ru.wikipedia.org/wiki/Гидравлический_разрыв_пласта**                             
 
 ## Software
-Программное обеспечение для систем автоматизированного проектирования и расчёта механики
-САПР свободные: BRL-CADб FreeCAD, OpenSCAD, Open Cascade Technology, QCad, SALOME, SolveSpace
-Расчёт механики свободные: CalculiX, HeeksCAD, OpenFOAM, Onshape
+Программное обеспечение для систем автоматизированного проектирования и расчёта механики                         
+САПР свободные: BRL-CAD, FreeCAD, LibreCAD, OpenSCAD, Open Cascade Technology, QCad, SALOME, SolveSpace, QCAD, rattleCAD                                  
+Расчёт механики свободные: CalculiX, HeeksCAD, OpenFOAM, Onshape                   
 
 ### Free Software
 https://en.wikipedia.org/wiki/Category:Free_science_software   
@@ -42,6 +42,21 @@ https://en.wikipedia.org/wiki/Category:Free_mathematics_software
 https://en.wikipedia.org/wiki/Category:Free_interactive_geometry_software
 
 https://en.wikipedia.org/wiki/Category:Free_physics_software             
+**https://en.wikipedia.org/wiki/Category:Finite_element_software**                   
+
+**https://en.wikipedia.org/wiki/OpenFOAM**                              
+**https://en.wikipedia.org/wiki/FreeFem%2B%2B**            
+https://en.wikipedia.org/wiki/Elmer_FEM_solver          
+https://en.wikipedia.org/wiki/GetFEM%2B%2B             
+https://en.wikipedia.org/wiki/Calculix                
+https://en.wikipedia.org/wiki/JCMsuite                   
+https://en.wikipedia.org/wiki/MFEM              
+https://en.wikipedia.org/wiki/Deal.II             
+https://en.wikipedia.org/wiki/Goma_(software)            
+
+https://en.wikipedia.org/wiki/Salome_(software)                         
+https://en.wikipedia.org/wiki/Gmsh        
+
 
 ### Non-Free Software
 ENG       
@@ -54,7 +69,9 @@ https://en.wikipedia.org/wiki/Category:Photogrammetry_software
 
 https://en.wikipedia.org/wiki/Category:Mathematical_software                    
 https://en.wikipedia.org/wiki/Category:Physics_software
-**https://en.wikipedia.org/wiki/Category:Finite_element_method**          
+**https://en.wikipedia.org/wiki/Category:Finite_element_method**                     
+**https://en.wikipedia.org/wiki/Category:Finite_element_software**                                  
+**https://en.wikipedia.org/wiki/List_of_finite_element_software_packages**                     
 
 https://en.wikipedia.org/wiki/Category:Computer-aided_design  
 https://en.wikipedia.org/wiki/Computer-automated_design
