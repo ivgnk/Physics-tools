@@ -21,5 +21,7 @@ https://en.wikipedia.org/wiki/Society_for_Experimental_Mechanics
 
 RUS         
 https://ru.wikipedia.org/wiki/Категория:Отделение_энергетики,_машиностроения,_механики_и_процессов_управления_РАН                      
-🏢 GitHub
+
+
+🏢 # GitHub
 
