@@ -1,4 +1,4 @@
-✏️ # Wiki                
+# ✏️Wiki                
 ENG                                     
 https://en.wikipedia.org/wiki/Category:Mechanics                   
 https://en.wikipedia.org/wiki/Geomechanics                     
