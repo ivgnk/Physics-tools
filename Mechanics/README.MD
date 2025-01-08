@@ -1,10 +1,16 @@
 #  🔗 Wiki                
 ENG                                     
 https://en.wikipedia.org/wiki/Category:Mechanics                   
-https://en.wikipedia.org/wiki/Category:Geotechnical_engineering                  
+https://en.wikipedia.org/wiki/Category:Geotechnical_engineering           
+https://en.wikipedia.org/wiki/Category:Rock_mechanics                   
+https://en.wikipedia.org/wiki/Category:Petrology                      
+https://en.wikipedia.org/wiki/Category:Soil_mechanics                
+https://en.wikipedia.org/wiki/Category:Mining_engineering                           
+
 https://en.wikipedia.org/wiki/Geomechanics       
 https://en.wikipedia.org/wiki/Geotechnical_engineering                   
 https://en.wikipedia.org/wiki/Mechanics          
+https://en.wikipedia.org/wiki/Rock_mechanics              
 **https://en.wikipedia.org/wiki/Category:Hydraulic_fracturing**  (Categories: Oil wells / Petroleum technology / Natural gas technology / Hydraulic engineering)                                  
 **https://en.wikipedia.org/wiki/Fracking**                
 
