@@ -28,6 +28,10 @@ https://ru.wikipedia.org/wiki/Механика
 **https://ru.wikipedia.org/wiki/Гидравлический_разрыв_пласта**                             
 
 ## Software
+Программное обеспечение для систем автоматизированного проектирования и расчёта механики
+САПР свободные: BRL-CADб FreeCAD, OpenSCAD, Open Cascade Technology, QCad, SALOME, SolveSpace
+Расчёт механики свободные: CalculiX, HeeksCAD, OpenFOAM, Onshape
+
 ### Free Software
 https://en.wikipedia.org/wiki/Category:Free_science_software   
 https://en.wikipedia.org/wiki/Category:Free_artificial_intelligence_applications         
@@ -49,7 +53,8 @@ https://en.wikipedia.org/wiki/Category:Hydrology_software
 https://en.wikipedia.org/wiki/Category:Photogrammetry_software              
 
 https://en.wikipedia.org/wiki/Category:Mathematical_software                    
-https://en.wikipedia.org/wiki/Category:Physics_software        
+https://en.wikipedia.org/wiki/Category:Physics_software
+**https://en.wikipedia.org/wiki/Category:Finite_element_method**          
 
 https://en.wikipedia.org/wiki/Category:Computer-aided_design  
 https://en.wikipedia.org/wiki/Computer-automated_design
@@ -57,9 +62,10 @@ https://en.wikipedia.org/wiki/Computer-automated_design
 RUS         
 https://ru.wikipedia.org/wiki/Категория:Прикладное_программное_обеспечение                     
 https://ru.wikipedia.org/wiki/Категория:Научное_программное_обеспечение                    
-https://ru.wikipedia.org/wiki/Категория:Математическое_программное_обеспечение                         
+https://ru.wikipedia.org/wiki/Категория:Математическое_программное_обеспечение                
 https://ru.wikipedia.org/wiki/Категория:Программы_математического_моделирования               
 https://ru.wikipedia.org/wiki/Категория:Категория:Программное_обеспечение_для_физических_расчётов                     
+**https://ru.wikipedia.org/wiki/Категория:Метод_конечных_элементов**                                  
 **https://ru.wikipedia.org/wiki/Категория:Программы_для_моделирования_механики_сплошных_сред**                                       
 https://ru.wikipedia.org/wiki/Категория:Применение_искусственного_интеллекта         
 
