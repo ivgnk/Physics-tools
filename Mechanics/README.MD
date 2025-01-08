@@ -1,8 +1,11 @@
 #  🔗 Wiki                
 ENG                                     
 https://en.wikipedia.org/wiki/Category:Mechanics                   
-https://en.wikipedia.org/wiki/Geomechanics                     
-https://en.wikipedia.org/wiki/Mechanics                   
+https://en.wikipedia.org/wiki/Category:Geotechnical_engineering                  
+https://en.wikipedia.org/wiki/Geomechanics       
+https://en.wikipedia.org/wiki/Geotechnical_engineering                   
+https://en.wikipedia.org/wiki/Mechanics          
+
 
 RUS         
 https://ru.wikipedia.org/wiki/Портал:Механика                   
@@ -12,6 +15,9 @@ https://ru.wikipedia.org/wiki/Механика
 
 ## Programms
 ENG               
+https://en.wikipedia.org/wiki/Category:Computer-aided_design  
+
+https://en.wikipedia.org/wiki/Computer-automated_design
 
 RUS         
 https://ru.wikipedia.org/wiki/Категория:Прикладное_программное_обеспечение                     
