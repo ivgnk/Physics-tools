@@ -5,13 +5,15 @@ https://en.wikipedia.org/wiki/Category:Geotechnical_engineering
 https://en.wikipedia.org/wiki/Geomechanics       
 https://en.wikipedia.org/wiki/Geotechnical_engineering                   
 https://en.wikipedia.org/wiki/Mechanics          
-
+**https://en.wikipedia.org/wiki/Category:Hydraulic_fracturing**  (Categories: Oil wells / Petroleum technology / Natural gas technology / Hydraulic engineering)                                  
+**https://en.wikipedia.org/wiki/Fracking**                
 
 RUS         
 https://ru.wikipedia.org/wiki/Портал:Механика                   
 https://ru.wikipedia.org/wiki/Категория:Механика                  
 https://ru.wikipedia.org/wiki/Геомеханика                
-https://ru.wikipedia.org/wiki/Механика                
+https://ru.wikipedia.org/wiki/Механика         
+**https://ru.wikipedia.org/wiki/Гидравлический_разрыв_пласта**                             
 
 ## Programms
 ENG               
@@ -58,6 +60,8 @@ https://en.wikipedia.org/wiki/List_of_physics_journals
 https://en.wikipedia.org/wiki/List_of_probability_journals             
 https://en.wikipedia.org/wiki/List_of_statistics_journals            
 
+## Papers in sites
+https://habr.com/ru/hubs/cad_cam/articles                        
 
 # 🌸 Web 
 The Solid Modeling Association http://solidmodeling.org                                  
