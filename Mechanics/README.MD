@@ -1,4 +1,4 @@
-# ✏️Wiki                
+#  ✏️Wiki                
 ENG                                     
 https://en.wikipedia.org/wiki/Category:Mechanics                   
 https://en.wikipedia.org/wiki/Geomechanics                     
@@ -23,5 +23,5 @@ RUS
 https://ru.wikipedia.org/wiki/Категория:Отделение_энергетики,_машиностроения,_механики_и_процессов_управления_РАН                      
 
 
-🏢 # GitHub
+#  🏢 GitHub
 
