@@ -324,10 +324,14 @@ https://docs.obspy.org
 2021 [Seismic Analysis with Python](https://www.analyticsvidhya.com/blog/2021/05/seismic-analysis-with-python/)        
 2022 [Volcanic and Seismic Source Modeling: An Open Tool for Geodetic Data Modeling](https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2022.917222/full)          
 2024 [surfQuake: A new Python toolbox for the workflow process of seismic sources](https://synthical.com/article/surfQuake%3A-A-new-Python-toolbox-for-the-workflow-process-of-seismic-sources-6fd8a559-b16f-4bef-b906-edbf866eb46b/ru)
+2025 [Cluster analysis of earthquake hypocenters in Azerbaijan and surrounding territories](https://synthical.com/article/Cluster-analysis-of-earthquake-hypocenters-in-Azerbaijan-and-surrounding-territories-78daece0-a089-47fd-b1ad-1ddc9765ad8d)              
 
-https://synthical.com/search/by_category/Geophysics                      
-https://synthical.com/feed/physics/new
-https://synthical.com - Discover, learn, and share research, made easy with our AI                       
+
+https://synthical.com/search/by_category/Geophysics                   
+https://synthical.com/search/by_category/Earth%20and%20Planetary%20Astrophysics                               
+https://synthical.com/feed/physics/new                           
+https://synthical.com - Discover, learn, and share research, made easy with our AI                                      
+
 [ИФЗ РАН: Обработка геофизических данных с использованием Python](https://python.ifz.ru/)         
 
 #### Geo Flows       
