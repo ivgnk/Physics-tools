@@ -332,9 +332,11 @@ https://docs.obspy.org
 2020 [habr: Эксперименты с нейронными сетями на данных сейсморазведки](https://habr.com/ru/companies/ods/articles/482780/)       
 2021 [Seismic Analysis with Python](https://www.analyticsvidhya.com/blog/2021/05/seismic-analysis-with-python/)        
 2022 [Volcanic and Seismic Source Modeling: An Open Tool for Geodetic Data Modeling](https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2022.917222/full)          
+2023 [Автоматизация классификации сейсмических событий при сейсмомониторинге угольной шахты с использованием машинного обучения](https://mining-media.ru/images/2023/05S_2023/58-64.pdf)    
 2024 [surfQuake: A new Python toolbox for the workflow process of seismic sources](https://synthical.com/article/surfQuake%3A-A-new-Python-toolbox-for-the-workflow-process-of-seismic-sources-6fd8a559-b16f-4bef-b906-edbf866eb46b/ru)
 2025 [Cluster analysis of earthquake hypocenters in Azerbaijan and surrounding territories](https://synthical.com/article/Cluster-analysis-of-earthquake-hypocenters-in-Azerbaijan-and-surrounding-territories-78daece0-a089-47fd-b1ad-1ddc9765ad8d)              
 
+[Журнал Горная промышленность](https://mining-media.ru/ru/archiv)               
 
 https://synthical.com/search/by_category/Geophysics                   
 https://synthical.com/search/by_category/Earth%20and%20Planetary%20Astrophysics                               
