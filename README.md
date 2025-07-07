@@ -156,8 +156,9 @@ https://pypi.org/project/merlict - ray tracing
 ### Geo Physics              
 
 #### Video          
-https://www.youtube.com/@PETROPORTAL/playlists           
-Python в сейсморазведке - 
+https://www.youtube.com/@PETROPORTAL/playlists                   
+https://vkvideo.ru/@petroportal_ru              
+Python в сейсморазведке - https://www.youtube.com/watch?v=P6jBNO6iNjQ&list=PLKFZZdCueQ0CHGyo9QUjZamHbDMimkRQ3                         
 
 
 #### Main
