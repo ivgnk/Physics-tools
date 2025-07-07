@@ -154,6 +154,10 @@ https://pypi.org/project/pyroomacoustics
 https://pypi.org/project/merlict - ray tracing           
 
 ### Geo Physics              
+**[Wiki: Comparison_of_free_geophysics_software](https://ru.wikibrief.org/wiki/Comparison_of_free_geophysics_software)**                
+**[Sourceforge: Open Source Windows Earth Sciences Software](https://sourceforge.net/directory/earth-sciences/windows/)**                       
+**[Sourceforge:Open Source 3D Modeling Software](https://sourceforge.net/directory/3d-modeling/)**                          
+
 
 #### Video          
 https://www.youtube.com/@PETROPORTAL/playlists                   
