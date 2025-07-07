@@ -307,6 +307,8 @@ https://pypi.org/project/gflex
 https://pypi.org/project/webgeodyn/
 
 #### Seismo         
+2021 **[Каталог бесплатного сейсморазведочного ПО](http://www.agbogdanov.tmweb.ru/free_seismic_sw.html)**                     
+
 https://pypi.org/project/obsplus
 https://pypi.org/project/obspydmt/
 
