@@ -313,6 +313,22 @@ https://pypi.org/project/seismutils
 https://pypi.org/project/pyrocko -  seismology toolkit for Python                 
 https://pypi.org/project/hectorp -  estimate a trend in time series with temporal correlated noise       
 
+https://pypi.org/project/obspy - processing seismological data                     
+https://docs.obspy.org                        
+- - -
+##### Seismo Papers                         
+2018 [Обзор информационных технологий в исследовании сейсмических сигналов](https://cyberpedia.su/16x5356.html)     
+2018 [Free Программные комплексы для исследования сейсмических сигналов](https://cyberpedia.su/16x5357.html)       
+2019 [Working with 3D seismic data in Python using segyio and numpy (mostly)](https://mycartablog.com/2019/03/12/working-with-3d-seismic-data-in-python-using-segyio-and-numpy-mostly/)            
+2020 [habr: Эксперименты с нейронными сетями на данных сейсморазведки](https://habr.com/ru/companies/ods/articles/482780/)       
+2021 [Seismic Analysis with Python](https://www.analyticsvidhya.com/blog/2021/05/seismic-analysis-with-python/)        
+2022 [Volcanic and Seismic Source Modeling: An Open Tool for Geodetic Data Modeling](https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2022.917222/full)          
+2024 [surfQuake: A new Python toolbox for the workflow process of seismic sources](https://synthical.com/article/surfQuake%3A-A-new-Python-toolbox-for-the-workflow-process-of-seismic-sources-6fd8a559-b16f-4bef-b906-edbf866eb46b/ru)
+
+https://synthical.com/search/by_category/Geophysics                      
+https://synthical.com/feed/physics/new
+https://synthical.com - Discover, learn, and share research, made easy with our AI                       
+[ИФЗ РАН: Обработка геофизических данных с использованием Python](https://python.ifz.ru/)         
 
 #### Geo Flows       
 https://pypi.org/project/woffl     
