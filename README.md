@@ -157,7 +157,7 @@ https://pypi.org/project/merlict - ray tracing
 **[Wiki: Comparison_of_free_geophysics_software](https://ru.wikibrief.org/wiki/Comparison_of_free_geophysics_software)**                
 **[Sourceforge: Open Source Windows Earth Sciences Software](https://sourceforge.net/directory/earth-sciences/windows/)**                       
 **[Sourceforge:Open Source 3D Modeling Software](https://sourceforge.net/directory/3d-modeling/)**                          
-
+[geophysics.eu: List of Softwares: free, open-source and commercial geophysical software](https://geophysics.eu/list%20of%20softwares.htm)       
 
 #### Video          
 https://www.youtube.com/@PETROPORTAL/playlists                   
@@ -312,6 +312,7 @@ https://pypi.org/project/webgeodyn/
 
 #### Seismo         
 2021 **[Каталог бесплатного сейсморазведочного ПО](http://www.agbogdanov.tmweb.ru/free_seismic_sw.html)**                     
+
 
 https://pypi.org/project/obsplus
 https://pypi.org/project/obspydmt/
