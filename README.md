@@ -323,6 +323,8 @@ https://pypi.org/project/hectorp -  estimate a trend in time series with tempora
 https://pypi.org/project/obspy - processing seismological data                     
 https://docs.obspy.org                        
 - - -
+[Фонд алгоритмов и программ СО РАН (ФАП СО РАН)](http://fap.nsc.ru/)          
+
 ##### Seismo Papers                         
 2018 [Обзор информационных технологий в исследовании сейсмических сигналов](https://cyberpedia.su/16x5356.html)     
 2018 [Free Программные комплексы для исследования сейсмических сигналов](https://cyberpedia.su/16x5357.html)       
