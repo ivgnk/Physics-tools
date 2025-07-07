@@ -153,7 +153,13 @@ https://pypi.org/project/chaosmagpy
 https://pypi.org/project/pyroomacoustics             
 https://pypi.org/project/merlict - ray tracing           
 
-### Geo Physics                  
+### Geo Physics              
+
+#### Video          
+https://www.youtube.com/@PETROPORTAL/playlists           
+Python в сейсморазведке - 
+
+
 #### Main
 **https://pangeo.io** - for Big Data geoscience
 https://stacspec.org                  
