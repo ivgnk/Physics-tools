@@ -154,10 +154,20 @@ https://pypi.org/project/pyroomacoustics
 https://pypi.org/project/merlict - ray tracing           
 
 ### Geo Physics              
+#### Softwarelist          
 **[Wiki: Comparison_of_free_geophysics_software](https://ru.wikibrief.org/wiki/Comparison_of_free_geophysics_software)**                
+
 **[Sourceforge: Open Source Windows Earth Sciences Software](https://sourceforge.net/directory/earth-sciences/windows/)**                       
 **[Sourceforge:Open Source 3D Modeling Software](https://sourceforge.net/directory/3d-modeling/)**                          
+https://sourceforge.net/directory/3d-modeling/?sort=update
+
 [geophysics.eu: List of Softwares: free, open-source and commercial geophysical software](https://geophysics.eu/list%20of%20softwares.htm)       
+
+
+g2.com - Find the right software 
+[Top Free Geology and Seismic Software](https://www.g2.com/categories/geology-and-seismic/free)      
+https://www.g2.com/categories/geology-and-seismic                                 
+
 
 #### Video          
 https://www.youtube.com/@PETROPORTAL/playlists                   
